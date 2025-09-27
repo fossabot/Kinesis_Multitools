@@ -1,4 +1,6 @@
 # Kinesis Multitools
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FInSawyerSteps%2FKinesis_Multitools.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FInSawyerSteps%2FKinesis_Multitools?ref=badge_shield)
+
 
 Kinesis Multitools is a robust, extensible MCP server for IDE-integrated code intelligence, semantic code search, and canonical code pattern management. Built for reliability and security, it enables both developers and AI agents to analyze, search, and interact with codebases efficiently—while remaining open to new tool ideas from the community.
 
@@ -441,3 +443,6 @@ The `introspect` tool is a multi-modal code/project introspection multitool for 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FInSawyerSteps%2FKinesis_Multitools.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FInSawyerSteps%2FKinesis_Multitools?ref=badge_large)
